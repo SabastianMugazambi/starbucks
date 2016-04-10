@@ -1,0 +1,20 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "mugazambis@carleton.edu",
+    "enableMultiJS": true,
+    "longName": "zeusTest",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "zeusTest",
+    "uuid": "40fb68f0-47bf-4d33-98f2-cdf8c52ed1b7",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
